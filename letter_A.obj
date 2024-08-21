@@ -1,0 +1,11 @@
+
+v  0.0  0.0  0.0   # Bottom Left
+v  1.0  0.0  0.0   # Bottom Right
+v  0.5  1.5  0.0   # Top Center
+v  0.3  0.7  0.0   # Middle Left
+v  0.7  0.7  0.0   # Middle Right
+
+
+f  1 2 3           # Left Triangle
+f  1 4 2           # Bottom Rectangle
+f  4 5 2           # Right Triangle
