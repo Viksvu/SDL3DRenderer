@@ -1,6 +1,6 @@
 # Minimalistic 3D Renderer
 
-![Game Screenshot](2024-10-08 22-50-40.png)
+![Game Screenshot](3dSc.png)
 
 
 ## Overview
