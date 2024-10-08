@@ -1,5 +1,8 @@
 # Minimalistic 3D Renderer
 
+![Game Screenshot](Screenshot from 2024-10-08 22-50-40.png)
+
+
 ## Overview
 
 A minimalistic 3D renderer implemented with SDL (Simple DirectMedia Layer). This project demonstrates basic 3D rendering techniques using SDL for window management and input handling.
