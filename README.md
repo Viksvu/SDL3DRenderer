@@ -5,7 +5,7 @@
 
 ## Overview
 
-A minimalistic 3D renderer implemented with SDL (Simple DirectMedia Layer). This project demonstrates basic 3D rendering techniques using SDL for window management and input handling.
+A minimalistic 3D renderer implemented with SDL (Simple DirectMedia Layer). This project demonstrates basic 3D rendering techniques using SDL for window management.
 
 ## Features
 
